@@ -365,9 +365,9 @@ mathjax-node@^1.1.0:
     mathjax "^2.7.2"
 
 mathjax@^2.7.2:
-  version "2.7.2"
-  resolved "https://registry.yarnpkg.com/mathjax/-/mathjax-2.7.2.tgz#97d78bbebfb65a8621ce33fb7c1f10917355a878"
-  integrity sha512-Z9te7r3lsjZibugO1uKsdyqICKXVNr7M1Ll2GtjJu9cUKvOvwDqEp0YIjBD4H58NNuPg5DP5/AQ2Tu8K52Mqng==
+  version "2.7.9"
+  resolved "https://registry.yarnpkg.com/mathjax/-/mathjax-2.7.9.tgz#d6b67955c173e7d719fcb2fc0288662884eb7d3d"
+  integrity sha512-NOGEDTIM9+MrsqnjPEjVGNx4q0GQxqm61yQwSK+/5S59i26wId5IC5gNu9/bu8+CCVl5p9G2IHcAl/wJa+5+BQ==
 
 mime-db@~1.30.0:
   version "1.30.0"
